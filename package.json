@@ -1,0 +1,23 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "This repository was created to store algorithms from the book \"Grokking Algorithms\" by Aditya Y. Bhargava. <br>\r The oficial repository is https://github.com/egonSchiele/grokking_algorithms - with many programming languages for you to check. <br>\r Here I'll use Typescript to add type safety and improve my development experience.\r Feel free to ask and suggest changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItaloCovas/grokking-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItaloCovas/grokking-algorithms/issues"
+  },
+  "homepage": "https://github.com/ItaloCovas/grokking-algorithms#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
