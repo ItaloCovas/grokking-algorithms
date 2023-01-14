@@ -7,6 +7,6 @@ Feel free to ask and suggest changes.
 ## How to test the scripts?
 
 1 - Clone this repo: <mark>git clone https://github.com/ItaloCovas/grokking-algorithms.git</mark> <br>
-2 - Open your terminal in the root folder and run <mark>npm install</mark> <br>
-3 - Choose the file that you want to test and run <mark>npx ts-node 'DIRECTORY'</mark> <br>
-EXAMPLE: <mark>npx ts-node '.\1 - Binary Search\binarySearch.ts'</mark>
+2 - Open your terminal in the root folder and run:  <b>npm install</b> <br>
+3 - Choose the file that you want to test and run:  <b>npx ts-node 'DIRECTORY'</b> <br>
+EXAMPLE: <b>npx ts-node '.\1 - Binary Search\binarySearch.ts'</b>
